@@ -1,7 +1,7 @@
 # kino-kosmos
 ### 🧸 hello, i'm kino (john joseph s. dimatulac)
 
-cs student @ **batangas state university – alangilan**  
+2nd year cs student @ **batangas state university – alangilan**  
 i love turning ideas into code — and feelings into words.
 
 ## 💻 what i do
@@ -16,5 +16,6 @@ i love turning ideas into code — and feelings into words.
 
 ## 🤍 let’s connect
 open to collabs, convos, and learning from others.
+email: 24-05335@g.batstate-u.edu.ph
 
 > code gently. write honestly. stay curious.
